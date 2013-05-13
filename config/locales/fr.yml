@@ -1,0 +1,24 @@
+fr:
+  access:
+    access:
+        avez_vous_un_compte: "Avez-vous un compte Grand Duc en ligne ?"
+        creer_un_compte: "Créer un compte"
+    login:
+      courriel_sera_envoye: "Un courriel sera envoyé<br /> à votre adresse courriel"
+      votre_compte_grandduc: "Votre Compte<br /> Grand Duc en ligne"
+    application:
+      404:
+        the_page_you_were_looking_for_doesnt_exist: "The page you were looking for doesn't exist"
+        you_may_have_mistyped_the_address_or_the_page_may_have_moved: "You may have mistyped the address or the page may have moved."
+      book_review:
+        editer: "editer"
+        effacer: "effacer"
+        etez_vous_certain: "êtes-vous certain?"
+      breadcrumb:
+        accueil: "Accueil"
+        caisse: "Caisse"
+        test2: "test2"
+        test3: "test3"
+        test4: |
+          uno
+          dos
